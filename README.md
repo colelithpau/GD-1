@@ -1,22 +1,22 @@
 ## 🎮 Project Overview
 The Game Development path focuses on game design architecture, event listeners, and engine-level mechanics. Instead of just controlling a character, I am responsible for:
 
-Asset Management: Spawning and positioning entities (enemies, items, obstacles).
+- `Asset`, `Management` - : Spawning and positioning entities (enemies, items, obstacles).
 
-Game Loop Logic: Handling time-based updates, frame-by-frame monitoring, and physics.
+- `Game`, `Loop`, `Logic` - : Handling time-based updates, frame-by-frame monitoring, and physics.
 
-Event Handling: Creating logic for collisions, score tracking, and win/loss states.
+- `Event`, `Handling` - : Creating logic for collisions, score tracking, and win/loss states.
 
 ## 🛠️ Tech Stack & Concepts
 Throughout these projects, I implemented the following programming concepts:
 
-Event-Driven Programming: Using game.on() to trigger events based on gameplay interactions (e.g., collide, collect).
+- `Event-Driven`, `Programming` - : Using game.on() to trigger events based on gameplay interactions (e.g., collide, collect).
 
-Game State Management: Maintaining variables for scores, health, and timers to decide when a game is won or lost.
+- `Game`, `State`, `Management` - : Maintaining variables for scores, health, and timers to decide when a game is won or lost.
 
-Spawning & Randomization: Utilizing algorithms to spawn enemies at random locations or intervals to increase difficulty.
+- `Spawning`, `&`, `Randomization` - : Utilizing algorithms to spawn enemies at random locations or intervals to increase difficulty.
 
-Collision Detection: Setting up custom triggers to handle interactions between different game objects.
+- `Collision`, `Detection` - : Setting up custom triggers to handle interactions between different game objects.
 
 
 ## 📂 Project Structure
