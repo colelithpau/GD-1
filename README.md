@@ -22,11 +22,11 @@ Throughout these projects, I implemented the following programming concepts:
 ## 📂 Project Structure
 Each folder represents a specific Game Dev level or custom project:
 
-game-dev-1/: Basic map layout and manual goal setting.
+- `game-dev-1/` - : Basic map layout and manual goal setting.
 
-game-dev-2/: Implementing collision listeners and score tracking.
+- `game-dev-2/` - : Implementing collision listeners and score tracking.
 
-game-dev-3/: Advanced game loops and dynamic entity movement.
+- `game-dev-3/` - : Advanced game loops and dynamic entity movement.
 
 ## 🚀 How to Run
 These scripts are designed to run within the CodeCombat Game Development engine.
